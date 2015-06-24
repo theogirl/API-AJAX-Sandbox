@@ -1,0 +1,36 @@
+.search-box {
+	text-align: center;
+	background-color: gainsboro;
+	margin: 2em auto;
+	padding: 20px;
+}
+
+input {
+	width: 400px;
+	height: 30px;
+	font-size: 1.1em;
+	padding: 10px;
+}
+
+button {
+	height: 50px;
+	border: none;
+	background-color: green;
+	color: white;
+	font-size: 1.1em;
+	padding: 10px;
+}
+
+button:hover {
+	background-color: lightgreen;
+	color: green;
+}
+
+.search-results {
+	background-color: white;
+	border: 1px solid black;
+	width: 600px;
+	margin: 1em auto;
+	text-align: center;
+	padding: 20px;
+}
